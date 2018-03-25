@@ -397,4 +397,9 @@ footer .footerNote {
 	margin-right: 3%;
 	font-family: sans-serif;
 }
+.center { 
+	margin-right: auto; 
+	margin-left: auto; 
+	text-align: center;
+	}
 }
